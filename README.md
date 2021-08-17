@@ -1,5 +1,4 @@
 # scanme
-repository for ScanMe project
-Assets picutre are from Unsplash
-https://unsplash.com/photos/-uHVRvDr7pg
+Advertisment repo for ScanMe mobile project
+Download the mobile app using link: https://acamara2016.github.io/scanme/
 
