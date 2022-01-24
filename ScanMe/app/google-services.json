@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394209396164",
+    "firebase_url": "https://scanner-project-2020.firebaseio.com",
+    "project_id": "scanner-project-2020",
+    "storage_bucket": "scanner-project-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394209396164:android:0b24821e315360cd88d091",
+        "android_client_info": {
+          "package_name": "com.acamara.scanme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394209396164-fjvqq66igvam7rfkf1qj1c80u0lo6o7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD19E9yaMhLfJ0GDrPgI8QNd0VEns7utGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394209396164-fjvqq66igvam7rfkf1qj1c80u0lo6o7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
